@@ -1,36 +1,36 @@
 >epoch: 1, batch: 0.111111 
-    discriminator loss: 0.032822, generator loss: 15.623871, acc: 0.292969 
+    discriminator loss: 0.127667, generator loss: 8.09442, acc: 0.285156 
 
 
 >epoch: 1, batch: 0.222222 
-    discriminator loss: -0.008488, generator loss: 14.362586, acc: 0.0 
+    discriminator loss: 1.3e-05, generator loss: 6.492025, acc: 0.0 
 
 
 >epoch: 1, batch: 0.333333 
-    discriminator loss: -0.020223, generator loss: 10.282111, acc: 0.0 
+    discriminator loss: -0.00137, generator loss: 5.073728, acc: 0.0 
 
 
 >epoch: 1, batch: 0.444444 
-    discriminator loss: -0.022485, generator loss: 6.82244, acc: 0.0 
+    discriminator loss: -0.003854, generator loss: 3.781151, acc: 0.0 
 
 
 >epoch: 1, batch: 0.555556 
-    discriminator loss: -0.031815, generator loss: 5.372979, acc: 0.0 
+    discriminator loss: -0.003787, generator loss: 3.028591, acc: 0.0 
 
 
 >epoch: 1, batch: 0.666667 
-    discriminator loss: -0.042077, generator loss: 4.410793, acc: 0.0 
+    discriminator loss: -0.005338, generator loss: 3.850296, acc: 0.0 
 
 
 >epoch: 1, batch: 0.777778 
-    discriminator loss: -0.051077, generator loss: 3.803702, acc: 0.0 
+    discriminator loss: -0.010939, generator loss: 3.350649, acc: 0.0 
 
 
 >epoch: 1, batch: 0.888889 
-    discriminator loss: -0.060521, generator loss: 3.983219, acc: 0.0 
+    discriminator loss: -0.017092, generator loss: 2.544071, acc: 0.0 
 
 
 >epoch: 1, batch: 1.0 
-    discriminator loss: -0.068589, generator loss: 3.791744, acc: 0.0 
+    discriminator loss: -0.023541, generator loss: 2.281831, acc: 0.0 
 
 
